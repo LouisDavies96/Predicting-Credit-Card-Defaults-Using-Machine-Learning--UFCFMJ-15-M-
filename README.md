@@ -31,7 +31,7 @@ How to Use
 
 Clone this repository:
 
-git clone https://github.com/username/repo-name.git
+git clone [https://github.com/username/repo-name.git](https://github.com/LouisDavies96/Predicting-Credit-Card-Defaults-Using-Machine-Learning--UFCFMJ-15-M-/tree/main)
 cd repo-name
 
 
